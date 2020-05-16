@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sequence
+comment0.text=\r\n\ This\ class\ asks\ the\ user\ to\ input\ two\ doubles,\ x\ and\ y\ and\ then\r\n\ calculates\ a\ third\ double\ z,\ where\ z\ \=\ y\ *\ (y/x).\ For\ example\:\r\n\ \r\n\ enter\ the\ first\ double\:\ 3\r\n\ enter\ the\ second\ double\:\ 6\r\n\ \r\n\ the\ first\ double\ was\ 3.0\r\n\ the\ second\ double\ was\ 6.0\r\n\ the\ third\ double\ is\ therefore\ 12.0\r\n\ \ \ \ \ \r\n\ Note\:\ In\ the\ Mastery\ Test,\ you\ *must*\ store\ all\ three\ doubles\r\n\ \ \ \ \ \ \ x,\ y\ and\ z\ in\ an\ array\ called\ "sequence"\ before\ outputing\ the\ answer.\r\n\ \ \ \ \ \r\n\ @author\ Raymond\ Lister\r\n\ @version\ Spring\ 2015,\ August\ 11\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=subscript
+comment2.target=double\ getSequence(int)
+comment2.text=\r\n\ This\ method\ allows\ plate\ to\ check\ that\ the\ appropriate\ values\ are\ stored\ in\ array\ "sequence".\r\n\ DO\ NOT\ CHANGE\ THIS\ METHOD.\r\n
+numComments=3
